@@ -1,0 +1,8 @@
+﻿  auth.cpp
+  EasyCTF.cpp
+  flag.cpp
+D:\projects\EasyCTF\EasyCTF\flag.cpp(22,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\projects\EasyCTF\EasyCTF\flag.cpp(31,52): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+D:\projects\EasyCTF\EasyCTF\flag.cpp(48,48): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  Generating Code...
+  EasyCTF.vcxproj -> D:\projects\EasyCTF\x64\Debug\EasyCTF.exe
